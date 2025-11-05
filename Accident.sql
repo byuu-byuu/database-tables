@@ -1,3 +1,4 @@
+CREATE uni;
 CREATE TABLE Accident (
     Report_no INT,
     Accident_date DATE,
@@ -10,3 +11,4 @@ INSERT INTO Accident (Report_no, Accident_date, Location) VALUES
 (3, '2022-04-13', '8-mile'),
 (4, '2023-02-16', 'Sanchaung'),
 (5, '2023-04-30', 'Aung Mingalar');
+
