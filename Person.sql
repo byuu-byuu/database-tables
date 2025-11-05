@@ -1,0 +1,2 @@
+create table Person (Pid int(5), Pname varchar(20), Address varchar(30), License  varchar(20));
+insert into Person values(1,'U Tin Aye','Yangon','AA0002'),(2,'U Hla Kyi','Yangon','AB0045'),(3,'Daw Mya Mya','Bago','AX0987'),(4,'U Aung Myo','Mandalay','AF0067');
